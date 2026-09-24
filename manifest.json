@@ -1,0 +1,23 @@
+{
+  "name": "Neon Auth",
+  "short_name": "Neon Auth",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080a0f",
+  "theme_color": "#080a0f",
+  "description": "Neon Auth — Application Authentication, Licensing & HWID Protection Platform",
+  "icons": [
+    {
+      "src": "/croxy-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/croxy-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

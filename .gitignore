@@ -1,0 +1,14 @@
+# Logs
+server.log
+*.log
+
+# Local tool metadata
+.freebuff/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
